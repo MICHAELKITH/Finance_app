@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[APP\] ](#-app-)
+- [📖 \[Finance APP  ](#-finance-app--)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -33,7 +33,8 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 [APP] <a name="about-project"></a>
+# 📖 [Finance APP  <a name="about-project"></a>
+**[Finance APP ]** is a react app that displays a list of stocks and services; when a user clicks on a stock, the app displays a list of companies that can be filtered using the search bar; each firm has its own photo, description, and details; and the app is free to use. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,23 +51,21 @@
 </details>
 
 
-
-
-
 ### Key Features <a name="key-features"></a>
 
-
--
+- **[Display a list of stocks and services   ]**
+- **[Filter the companies by typing in the search bar  ]**
+- **[Display individual information about a selected company  ]**
+- **[Backward arrow to return to the previous page ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live demo Link ](https://dainty-sunshine-0d74b1.netlify.app/)
+[Live demo Link ](https://dev--inquisitive-mandazi-5eae9a.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Video desctiption <a name="video"></a>
-![big-tv-tv]()
 
 [Video Link ]()
 
@@ -137,6 +136,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- [ ] **[Full navigation of the page ]**
+- [ ] **[Improve the UI/UX design  ]**
+- [ ] **[Add more Features of filtering the companies ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,11 +158,16 @@ If you like this project please give it a start and share it with your friends.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
+I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
+I would like to thank [sakwadesignstudio](https://www.behance.net/sakwadesignstudio) for providing the greate design in Behance that we used as a reference to build this Application 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 This project is [MIT](./MIT.md) licensed.
 
