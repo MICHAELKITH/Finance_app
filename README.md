@@ -67,7 +67,7 @@
 
 ## 🚀 Video desctiption <a name="video"></a>
 
-[Video Link ]()
+[Video Link ](https://www.loom.com/share/e11da9d2a74c4611a33c8194091125b7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
