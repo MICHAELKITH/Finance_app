@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[APP\] ](#-app-)
+- [📖 \[Finance APP  ](#-finance-app--)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -33,7 +33,8 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 [APP] <a name="about-project"></a>
+# 📖 [Finance APP  <a name="about-project"></a>
+**[Finance APP ]** is a react app that displays a list of stocks and services; when a user clicks on a stock, the app displays a list of companies that can be filtered using the search bar; each firm has its own photo, description, and details; and the app is free to use. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,13 +56,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-
--
+- **[Display a list of stocks and services   ]**
+- **[Filter the companies by typing in the search bar  ]**
+- **[Display individual information about a selected company  ]**
+- **[Backward arrow to return to the previous page ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live demo Link ](https://dainty-sunshine-0d74b1.netlify.app/)
+[Live demo Link ]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
