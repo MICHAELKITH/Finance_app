@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 function App() {
   return (
     <div className="App">
-     <h1>Capstone project</h1>
+      <h1>Capstone project</h1>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
