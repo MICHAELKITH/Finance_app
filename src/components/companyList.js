@@ -20,6 +20,7 @@ function Companies({ sector }) {
   const { companies } = useSelector((state) => state.companies);
   const dispatch = useDispatch();
   const filterRef = useRef();
+  const { companiesHeaderContainer, companiesSearch, companiesContainer } = style;
 
   useEffect(() => {
     dispatch(fetchCompanies(sector));
@@ -45,7 +46,7 @@ function Companies({ sector }) {
           <div>Loading ...  </div>
           <div><FontAwesomeIcon icon={faGear} /></div>
         </header>
-        <div className={style.companiesHeaderContainer}>
+        <div className={companiesHeaderContainer}>
           <FontAwesomeIcon icon={ICONS[sector]} />
           <div>{sector}</div>
         </div>
@@ -68,18 +69,18 @@ function Companies({ sector }) {
         <div>Finance APP . LIST </div>
         <div><FontAwesomeIcon icon={faGear} /></div>
       </header>
-      <div className={style.companiesHeaderContainer}>
+      <div className={companiesHeaderContainer}>
         <FontAwesomeIcon icon={ICONS[sector]} />
         <div>{sector}</div>
       </div>
 
-      <section className={style.companiesSearch}>
+      <section className={companiesSearch}>
         <FontAwesomeIcon icon={faMagnifyingGlass} />
         <input ref={filterRef} type="text" placeholder="search" onKeyDown={setFilterField} />
         <button type="button" onClick={setFilterFieldOnClick}>search</button>
       </section>
 
-      <section className={style.companiesContainer}>
+      <section className={companiesContainer}>
         {
           companies
             .filter((company) => company.companyName.toLowerCase().includes(filter.toLowerCase())

@@ -51,9 +51,6 @@
 </details>
 
 
-
-
-
 ### Key Features <a name="key-features"></a>
 
 - **[Display a list of stocks and services   ]**
@@ -64,14 +61,13 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live demo Link ](https://dev--inquisitive-mandazi-5eae9a.netlify.app/)
+test-branch
+[Live demo Link ](https://test-branch--deluxe-puffpuff-cd2d13.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Video desctiption <a name="video"></a>
-![big-tv-tv]()
-
-[Video Link ]()
+[Video Link ](https://www.loom.com/share/bbc733f14ebd46248822d098966cc1d1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,6 +136,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- [ ] **[Full navigation of the page ]**
+- [ ] **[Improve the UI/UX design  ]**
+- [ ] **[Add more Features of filtering the companies ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,11 +158,16 @@ If you like this project please give it a start and share it with your friends.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
+I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
+I would like to thank [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for providing the greate design in Behance that we used as a reference to build this Application 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 This project is [MIT](./MIT.md) licensed.
 
