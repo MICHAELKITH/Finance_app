@@ -158,7 +158,7 @@ If you like this project please give it a start and share it with your friends.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
-I would like to thank [sakwadesignstudio](https://www.behance.net/sakwadesignstudio) for providing the greate design in Behance that we used as a reference to build this Application 
+I would like to thank [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for providing the greate design in Behance that we used as a reference to build this Application 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

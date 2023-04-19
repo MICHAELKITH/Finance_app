@@ -58,7 +58,7 @@
 }
 
 .companiesHeaderContainer > svg {
-  font-size: 110px;
+  font-size: 80px;
   color: var(--white);
 }
 
@@ -66,7 +66,7 @@
   font-weight: 700;
   font-size: 40px;
   text-align: center;
-  padding-right: 60px;
+  padding-left: 6rem;
   line-height: 35px;
 }
 

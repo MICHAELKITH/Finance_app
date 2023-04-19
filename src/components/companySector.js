@@ -7,13 +7,14 @@ import style from '../styles/Sector.module.css';
 
 function Sector({ sector, change, className }) {
   const url = encodeURI(`sectors/${sector}`);
+  const { iconContainer, infoContainer } = style;
   return (
     <NavLink to={url} className={`${style.sector} ${className}`}>
-      <div className={style.iconContainer}>
+      <div className={iconContainer}>
         <FontAwesomeIcon icon={ICONS[sector]} />
         <FontAwesomeIcon icon={faArrowRight} />
       </div>
-      <div className={style.infoContainer}>
+      <div className={infoContainer}>
         <h3>{sector}</h3>
         <span>{change}</span>
       </div>
