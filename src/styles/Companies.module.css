@@ -64,10 +64,19 @@
 
 .companiesHeaderContainer > div {
   font-weight: 700;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
-  padding-left: 6rem;
+  padding-left: 2rem;
   line-height: 35px;
+}
+@media only screen and (min-width: 768px){
+  .companiesHeaderContainer > div {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 6rem;
+    line-height: 35px;
+  }
 }
 
 .companiesSearch {
